@@ -10,4 +10,4 @@ Here you’ll find blog and technical articles on:
 
 Welcome to my digital world!
 
-[Twitter/X](https://x.com/VincenzoArgese) | [DevBlog](https://vincenzoargese.github.io/)
+[Twitter/X](https://x.com/cr1s1um) | [DevBlog](https://cr1s1um.github.io/)
