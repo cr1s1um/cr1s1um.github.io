@@ -1,34 +1,87 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>/* cr1s1um - devblog */</title><link>https://cr1s1um.github.io/</link><description>Recent content on /* cr1s1um - devblog */</description><generator>Hugo -- 0.147.7</generator><language>it-it</language><lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cr1s1um.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Privacy Policy, Cookie Policy</title><link>https://cr1s1um.github.io/privacy/</link><pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate><guid>https://cr1s1um.github.io/privacy/</guid><description>&lt;h2 id="informativa-sulla-privacy">Informativa sulla Privacy&lt;/h2>
-&lt;p>Ai sensi dell’articolo 13 del Regolamento (UE) 2016/679 (&amp;ldquo;GDPR&amp;rdquo;), ti informiamo che il presente sito web rispetta e tutela la riservatezza dei dati personali degli utenti.&lt;/p>
-&lt;h3 id="titolare-del-trattamento">Titolare del trattamento&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Nome&lt;/strong>: Vincenzo Argese&lt;/li>
-&lt;li>&lt;strong>Email&lt;/strong>: vincenzo#dot#argese#at#gmail#dot#com&lt;/li>
-&lt;li>&lt;strong>Sito&lt;/strong>: &lt;a href="https://cr1s1um.github.io">https://cr1s1um.github.io&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="finalità-del-trattamento-base-giuridica-e-tipologia-dei-dati-trattati">Finalità del trattamento, base giuridica e tipologia dei dati trattati&lt;/h3>
-&lt;p>Il sito tratta i seguenti dati personali per le finalità indicate:&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;strong>Cookie di Google Analytics&lt;/strong>: Il sito utilizza Google Analytics (gtag.js) per analizzare in forma aggregata le visite al sito e migliorare i contenuti. I cookie possono raccogliere informazioni come l&amp;rsquo;indirizzo IP, browser, dispositivo, sistema operativo, pagine visitate. La base giuridica è il consenso dell’interessato (art. 6, par. 1, lett. a GDPR). Il tracciamento è attivo solo previo consenso tramite banner cookie.&lt;/p></description></item><item><title>Oltre Scratch: Riflessioni critiche sul concetto di coding in Italia</title><link>https://cr1s1um.github.io/blog/oltre-scratch-riflessioni-critiche-sul-concetto-di-coding-in-italia/</link><pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate><guid>https://cr1s1um.github.io/blog/oltre-scratch-riflessioni-critiche-sul-concetto-di-coding-in-italia/</guid><description>&lt;p>Negli anni &amp;lsquo;80 e &amp;lsquo;90, molti ragazzi come me si avvicinavano al mondo dell&amp;rsquo;informatica grazie al mitico Commodore 64, ai primi personal computer assemblati e ai rudimentali sistemi operativi come DOS e Windows 3.11. Ricordo ancora con emozione il mio primo Commodore 64, regalatomi dai miei genitori nel 1989. Avevo appena sette anni, frequentavo la seconda elementare del mio piccolo paese, e la meraviglia provata nell&amp;rsquo;accendere quel computer, con la sua inconfondibile schermata blu e celeste, era impagabile. Quel piccolo dispositivo apriva davanti a me un intero universo fatto di sfide, studio, impegno e gratificazione.&lt;/p></description></item><item><title>My .vimrc file</title><link>https://cr1s1um.github.io/blog/my_vimrc_file/</link><pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate><guid>https://cr1s1um.github.io/blog/my_vimrc_file/</guid><description>&lt;p>&lt;img alt="ViM Logo" loading="lazy" src="https://www.vasystems.it/img/vimlogo.svg.png">
-&lt;img alt="ViM Smile" loading="lazy" src="https://www.vasystems.it/img/vim_smile.png">&lt;/p>
-&lt;h1 id="my-vimrc">My .vimrc&lt;/h1>
-&lt;p>Dear developers, IT professionals, and system administrators worldwide, this is my final version of the &lt;code>.vimrc&lt;/code> file, and I want to share it with everyone.&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/cr1s1um/vimrc">GitHub Page&lt;/a>&lt;/li>
-&lt;li>Published: 2025-03-04&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Ah&amp;hellip; I have disabled the ALE and Copilot plugins at startup. They are very convenient, but I find them quite intrusive, so I enable them only when needed or necessary.&lt;/strong>&lt;/p>
-&lt;p>You can enable them manually with the following commands (I prefer enable them when needed):&lt;/p></description></item><item><title>/* Hello world */</title><link>https://cr1s1um.github.io/blog/helloworld/</link><pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate><guid>https://cr1s1um.github.io/blog/helloworld/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-c" data-lang="c">&lt;span class="line">&lt;span class="cl">&lt;span class="cp">#include&lt;/span> &lt;span class="cpf">&amp;lt;stdio.h&amp;gt;&lt;/span>&lt;span class="cp">
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="cp">&lt;/span>&lt;span class="kt">int&lt;/span> &lt;span class="nf">main&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="kt">void&lt;/span>&lt;span class="p">){&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nf">printf&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s">&amp;#34;Hello world&lt;/span>&lt;span class="se">\n&lt;/span>&lt;span class="s">&amp;#34;&lt;/span>&lt;span class="p">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="p">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Il primo codice di ogni buon programmatore inizia con un semplice: &amp;ldquo;Ciao, mondo!&amp;rdquo;&lt;/p>
-&lt;p>In questo blog voglio condividere la mia esperienza e i miei progetti su temi che mi appassionano da sempre: Debian GNU/Linux, sviluppo software, game development, digital forensics e cyber security.&lt;/p>
-&lt;p>Benvenuto in questo viaggio tecnico e creativo!&lt;/p></description></item><item><title>/* Who I'm */</title><link>https://cr1s1um.github.io/whoiam/</link><pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate><guid>https://cr1s1um.github.io/whoiam/</guid><description>&lt;h1 id="hi">Hi!&lt;/h1>
-&lt;p>I&amp;rsquo;m &lt;strong>Vincenzo Argese&lt;/strong> and my passion for computing began in &lt;strong>1989&lt;/strong>, when my parents gave me a &lt;strong>Commodore 64&lt;/strong>. That little machine, and its &lt;strong>BASIC programming manual&lt;/strong>, was where I typed my very first lines of code.&lt;/p>
-&lt;p>In &lt;strong>2011&lt;/strong>, I started my own &lt;strong>IT consultancy business&lt;/strong>, focusing on &lt;strong>cybersecurity&lt;/strong> and &lt;strong>software development&lt;/strong>. Since &lt;strong>2012&lt;/strong>, I’ve worked as a &lt;strong>technical expert (CTU)&lt;/strong> specializing in &lt;strong>Digital Forensics&lt;/strong>, &lt;strong>incident response&lt;/strong> (&lt;strong>DFIR&lt;/strong>).&lt;/p>
-&lt;p>I regularly use &lt;strong>C&lt;/strong>, &lt;strong>C++&lt;/strong>, &lt;strong>Python&lt;/strong>, &lt;strong>PHP&lt;/strong>, &lt;strong>HTML5/CSS/JavaScript&lt;/strong>, and frameworks like &lt;strong>React&lt;/strong> in my professional projects. For fun, I develop &lt;strong>videogames&lt;/strong> with &lt;strong>Unity3D (C#)&lt;/strong> and &lt;strong>Godot Engine (GDScript)&lt;/strong>.&lt;/p></description></item><item><title/><link>https://cr1s1um.github.io/readme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cr1s1um.github.io/readme/</guid><description>&lt;p>Hi! I&amp;rsquo;m &lt;strong>Vincenzo Argese&lt;/strong> and my passion for computing began in &lt;strong>1989&lt;/strong>, when my parents gave me a &lt;strong>Commodore 64&lt;/strong>. That little machine, and its &lt;strong>BASIC programming manual&lt;/strong>, was where I typed my very first lines of code.&lt;/p>
-&lt;p>In &lt;strong>2011&lt;/strong>, I started my own &lt;strong>IT consultancy business&lt;/strong>, focusing on &lt;strong>cybersecurity&lt;/strong> and &lt;strong>software development&lt;/strong>. Since &lt;strong>2012&lt;/strong>, I’ve worked as a &lt;strong>technical expert (CTU)&lt;/strong> specializing in &lt;strong>Digital Forensics&lt;/strong>, &lt;strong>incident response&lt;/strong> (&lt;strong>DFIR&lt;/strong>).&lt;/p>
-&lt;p>I regularly use &lt;strong>C&lt;/strong>, &lt;strong>C++&lt;/strong>, &lt;strong>Python&lt;/strong>, &lt;strong>PHP&lt;/strong>, &lt;strong>HTML5/CSS/JavaScript&lt;/strong>, and frameworks like &lt;strong>React&lt;/strong> in my professional projects. For fun, I develop &lt;strong>videogames&lt;/strong> with &lt;strong>Unity3D (C#)&lt;/strong> and &lt;strong>Godot Engine (GDScript)&lt;/strong>.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>/* cr1s1um - devblog */</title>
+    <link>https://cr1s1um.github.io/</link>
+    <description>Recent content on /* cr1s1um - devblog */</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>it-it</language>
+    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://cr1s1um.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Policy, Cookie Policy</title>
+      <link>https://cr1s1um.github.io/privacy/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/privacy/</guid>
+      <description>&lt;h2 id=&#34;informativa-sulla-privacy&#34;&gt;Informativa sulla Privacy&lt;/h2&gt;
+&lt;p&gt;Ai sensi dell’articolo 13 del Regolamento (UE) 2016/679 (&amp;ldquo;GDPR&amp;rdquo;), ti informiamo che il presente sito web rispetta e tutela la riservatezza dei dati personali degli utenti.&lt;/p&gt;
+&lt;h3 id=&#34;titolare-del-trattamento&#34;&gt;Titolare del trattamento&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Nome&lt;/strong&gt;: Vincenzo Argese&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: vincenzo#dot#argese#at#gmail#dot#com&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sito&lt;/strong&gt;: &lt;a href=&#34;https://cr1s1um.github.io&#34;&gt;https://cr1s1um.github.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;finalità-del-trattamento-base-giuridica-e-tipologia-dei-dati-trattati&#34;&gt;Finalità del trattamento, base giuridica e tipologia dei dati trattati&lt;/h3&gt;
+&lt;p&gt;Il sito tratta i seguenti dati personali per le finalità indicate:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cookie di Google Analytics&lt;/strong&gt;: Il sito utilizza Google Analytics (gtag.js) per analizzare in forma aggregata le visite al sito e migliorare i contenuti. I cookie possono raccogliere informazioni come l&amp;rsquo;indirizzo IP, browser, dispositivo, sistema operativo, pagine visitate. La base giuridica è il consenso dell’interessato (art. 6, par. 1, lett. a GDPR). Il tracciamento è attivo solo previo consenso tramite banner cookie.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Oltre Scratch: Riflessioni critiche sul concetto di coding in Italia</title>
+      <link>https://cr1s1um.github.io/blog/oltre-scratch-riflessioni-critiche-sul-concetto-di-coding-in-italia/</link>
+      <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/blog/oltre-scratch-riflessioni-critiche-sul-concetto-di-coding-in-italia/</guid>
+      <description>&lt;p&gt;Negli anni &amp;lsquo;80 e &amp;lsquo;90, molti ragazzi come me si avvicinavano al mondo dell&amp;rsquo;informatica grazie al mitico Commodore 64, ai primi personal computer assemblati e ai rudimentali sistemi operativi come DOS e Windows 3.11. Ricordo ancora con emozione il mio primo Commodore 64, regalatomi dai miei genitori nel 1989. Avevo appena sette anni, frequentavo la seconda elementare del mio piccolo paese, e la meraviglia provata nell&amp;rsquo;accendere quel computer, con la sua inconfondibile schermata blu e celeste, era impagabile. Quel piccolo dispositivo apriva davanti a me un intero universo fatto di sfide, studio, impegno e gratificazione.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My .vimrc file</title>
+      <link>https://cr1s1um.github.io/blog/my_vimrc_file/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/blog/my_vimrc_file/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;ViM Logo&#34; loading=&#34;lazy&#34; src=&#34;https://www.vasystems.it/img/vimlogo.svg.png&#34;&gt;
+&lt;img alt=&#34;ViM Smile&#34; loading=&#34;lazy&#34; src=&#34;https://www.vasystems.it/img/vim_smile.png&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;my-vimrc&#34;&gt;My .vimrc&lt;/h1&gt;
+&lt;p&gt;Dear developers, IT professionals, and system administrators worldwide, this is my final version of the &lt;code&gt;.vimrc&lt;/code&gt; file, and I want to share it with everyone.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cr1s1um/vimrc&#34;&gt;GitHub Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Published: 2025-03-04&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Ah&amp;hellip; I have disabled the ALE and Copilot plugins at startup. They are very convenient, but I find them quite intrusive, so I enable them only when needed or necessary.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You can enable them manually with the following commands (I prefer enable them when needed):&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>/* Hello world */</title>
+      <link>https://cr1s1um.github.io/blog/helloworld/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/blog/helloworld/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;#include&lt;/span&gt; &lt;span class=&#34;cpf&#34;&gt;&amp;lt;stdio.h&amp;gt;&lt;/span&gt;&lt;span class=&#34;cp&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;){&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nf&#34;&gt;printf&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Hello world&lt;/span&gt;&lt;span class=&#34;se&#34;&gt;\n&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Il primo codice di ogni buon programmatore inizia con un semplice: &amp;ldquo;Ciao, mondo!&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;In questo blog voglio condividere la mia esperienza e i miei progetti su temi che mi appassionano da sempre: Debian GNU/Linux, sviluppo software, game development, digital forensics e cyber security.&lt;/p&gt;
+&lt;p&gt;Benvenuto in questo viaggio tecnico e creativo!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>/* Who I&#39;m */</title>
+      <link>https://cr1s1um.github.io/whoiam/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/whoiam/</guid>
+      <description>&lt;h1 id=&#34;hi&#34;&gt;Hi!&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;m &lt;strong&gt;Vincenzo Argese&lt;/strong&gt; and my passion for computing began in &lt;strong&gt;1989&lt;/strong&gt;, when my parents gave me a &lt;strong&gt;Commodore 64&lt;/strong&gt;. That little machine, and its &lt;strong&gt;BASIC programming manual&lt;/strong&gt;, was where I typed my very first lines of code.&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;2011&lt;/strong&gt;, I started my own &lt;strong&gt;IT consultancy business&lt;/strong&gt;, focusing on &lt;strong&gt;cybersecurity&lt;/strong&gt; and &lt;strong&gt;software development&lt;/strong&gt;. Since &lt;strong&gt;2012&lt;/strong&gt;, I’ve worked as a &lt;strong&gt;technical expert (CTU)&lt;/strong&gt; specializing in &lt;strong&gt;Digital Forensics&lt;/strong&gt;, &lt;strong&gt;incident response&lt;/strong&gt; (&lt;strong&gt;DFIR&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;I regularly use &lt;strong&gt;C&lt;/strong&gt;, &lt;strong&gt;C++&lt;/strong&gt;, &lt;strong&gt;Python&lt;/strong&gt;, &lt;strong&gt;PHP&lt;/strong&gt;, &lt;strong&gt;HTML5/CSS/JavaScript&lt;/strong&gt;, and frameworks like &lt;strong&gt;React&lt;/strong&gt; in my professional projects. For fun, I develop &lt;strong&gt;videogames&lt;/strong&gt; with &lt;strong&gt;Unity3D (C#)&lt;/strong&gt; and &lt;strong&gt;Godot Engine (GDScript)&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://cr1s1um.github.io/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/readme/</guid>
+      <description>&lt;p&gt;Hi! I&amp;rsquo;m &lt;strong&gt;Vincenzo Argese&lt;/strong&gt; and my passion for computing began in &lt;strong&gt;1989&lt;/strong&gt;, when my parents gave me a &lt;strong&gt;Commodore 64&lt;/strong&gt;. That little machine, and its &lt;strong&gt;BASIC programming manual&lt;/strong&gt;, was where I typed my very first lines of code.&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;2011&lt;/strong&gt;, I started my own &lt;strong&gt;IT consultancy business&lt;/strong&gt;, focusing on &lt;strong&gt;cybersecurity&lt;/strong&gt; and &lt;strong&gt;software development&lt;/strong&gt;. Since &lt;strong&gt;2012&lt;/strong&gt;, I’ve worked as a &lt;strong&gt;technical expert (CTU)&lt;/strong&gt; specializing in &lt;strong&gt;Digital Forensics&lt;/strong&gt;, &lt;strong&gt;incident response&lt;/strong&gt; (&lt;strong&gt;DFIR&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;I regularly use &lt;strong&gt;C&lt;/strong&gt;, &lt;strong&gt;C++&lt;/strong&gt;, &lt;strong&gt;Python&lt;/strong&gt;, &lt;strong&gt;PHP&lt;/strong&gt;, &lt;strong&gt;HTML5/CSS/JavaScript&lt;/strong&gt;, and frameworks like &lt;strong&gt;React&lt;/strong&gt; in my professional projects. For fun, I develop &lt;strong&gt;videogames&lt;/strong&gt; with &lt;strong&gt;Unity3D (C#)&lt;/strong&gt; and &lt;strong&gt;Godot Engine (GDScript)&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
