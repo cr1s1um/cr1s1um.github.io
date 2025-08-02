@@ -50,6 +50,16 @@
 &lt;p&gt;You can enable them manually with the following commands (I prefer enable them when needed):&lt;/p&gt;</description>
     </item>
     <item>
+      <title>/* About me */</title>
+      <link>https://cr1s1um.github.io/aboutme/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/aboutme/</guid>
+      <description>&lt;h1 id=&#34;hi&#34;&gt;Hi!&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;m &lt;strong&gt;Vincenzo Argese&lt;/strong&gt; and my passion for computing began in &lt;strong&gt;1989&lt;/strong&gt;, when my parents gave me a &lt;strong&gt;Commodore 64&lt;/strong&gt;. That little machine, and its &lt;strong&gt;BASIC programming manual&lt;/strong&gt;, was where I typed my very first lines of code.&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;2011&lt;/strong&gt;, I started my own &lt;strong&gt;IT consultancy business&lt;/strong&gt;, focusing on &lt;strong&gt;cybersecurity&lt;/strong&gt; and &lt;strong&gt;software development&lt;/strong&gt;. Since &lt;strong&gt;2012&lt;/strong&gt;, I’ve worked as a &lt;strong&gt;technical expert (CTU)&lt;/strong&gt; specializing in &lt;strong&gt;Digital Forensics&lt;/strong&gt;, &lt;strong&gt;incident response&lt;/strong&gt; (&lt;strong&gt;DFIR&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;I regularly use &lt;strong&gt;C&lt;/strong&gt;, &lt;strong&gt;C++&lt;/strong&gt;, &lt;strong&gt;Python&lt;/strong&gt;, &lt;strong&gt;PHP&lt;/strong&gt;, &lt;strong&gt;HTML5/CSS/JavaScript&lt;/strong&gt;, and frameworks like &lt;strong&gt;React&lt;/strong&gt; in my professional projects. For fun, I develop &lt;strong&gt;videogames&lt;/strong&gt; with &lt;strong&gt;Unity3D (C#)&lt;/strong&gt; and &lt;strong&gt;Godot Engine (GDScript)&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>/* Hello world */</title>
       <link>https://cr1s1um.github.io/post/helloworld/</link>
       <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
@@ -62,16 +72,6 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Il primo codice di ogni buon programmatore inizia con un semplice: &amp;ldquo;Ciao, mondo!&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;In questo blog voglio condividere la mia esperienza e i miei progetti su temi che mi appassionano da sempre: Debian GNU/Linux, sviluppo software, game development, digital forensics e cyber security.&lt;/p&gt;
 &lt;p&gt;Benvenuto in questo viaggio tecnico e creativo!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>/* Who I&#39;m */</title>
-      <link>https://cr1s1um.github.io/whoiam/</link>
-      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://cr1s1um.github.io/whoiam/</guid>
-      <description>&lt;h1 id=&#34;hi&#34;&gt;Hi!&lt;/h1&gt;
-&lt;p&gt;I&amp;rsquo;m &lt;strong&gt;Vincenzo Argese&lt;/strong&gt; and my passion for computing began in &lt;strong&gt;1989&lt;/strong&gt;, when my parents gave me a &lt;strong&gt;Commodore 64&lt;/strong&gt;. That little machine, and its &lt;strong&gt;BASIC programming manual&lt;/strong&gt;, was where I typed my very first lines of code.&lt;/p&gt;
-&lt;p&gt;In &lt;strong&gt;2011&lt;/strong&gt;, I started my own &lt;strong&gt;IT consultancy business&lt;/strong&gt;, focusing on &lt;strong&gt;cybersecurity&lt;/strong&gt; and &lt;strong&gt;software development&lt;/strong&gt;. Since &lt;strong&gt;2012&lt;/strong&gt;, I’ve worked as a &lt;strong&gt;technical expert (CTU)&lt;/strong&gt; specializing in &lt;strong&gt;Digital Forensics&lt;/strong&gt;, &lt;strong&gt;incident response&lt;/strong&gt; (&lt;strong&gt;DFIR&lt;/strong&gt;).&lt;/p&gt;
-&lt;p&gt;I regularly use &lt;strong&gt;C&lt;/strong&gt;, &lt;strong&gt;C++&lt;/strong&gt;, &lt;strong&gt;Python&lt;/strong&gt;, &lt;strong&gt;PHP&lt;/strong&gt;, &lt;strong&gt;HTML5/CSS/JavaScript&lt;/strong&gt;, and frameworks like &lt;strong&gt;React&lt;/strong&gt; in my professional projects. For fun, I develop &lt;strong&gt;videogames&lt;/strong&gt; with &lt;strong&gt;Unity3D (C#)&lt;/strong&gt; and &lt;strong&gt;Godot Engine (GDScript)&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
