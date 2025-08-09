@@ -6,8 +6,22 @@
     <description>Recent content in Posts on /* cr1s1um - devblog */</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>it-it</language>
-    <lastBuildDate>Sun, 29 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cr1s1um.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intelligenza artificiale da zero: costruisci il tuo primo neurone artificiale (Percettrone)</title>
+      <link>https://cr1s1um.github.io/post/perceptron/</link>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/post/perceptron/</guid>
+      <description>&lt;h1 id=&#34;percettrone-per-la-simulazione-di-una-porta-logica-and&#34;&gt;Percettrone per la Simulazione di una Porta Logica AND&lt;/h1&gt;
+&lt;h2 id=&#34;idea&#34;&gt;Idea&lt;/h2&gt;
+&lt;p&gt;Questo codice è stato sviluppato come esercizio pratico basato su un video del canale YouTube &lt;strong&gt;@enkk&lt;/strong&gt;. Nel video, Enkk spiega in modo semplice e intuitivo che cos&amp;rsquo;è un percettrone attraverso un esempio pratico e facilmente comprensibile e in questo post andiamo ad implementare il codice del percettrone.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cr1s1um/OpenCodeLab/blob/main/c/02_perceptron_and.c&#34;&gt;Link Github dell&amp;rsquo;implementazione&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;link-utili&#34;&gt;Link utili:&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Inutile dire quanto sia importante e utile seguire @Enkk se siete interessati allo studio dei Large Language Model (LLM) e dell&amp;rsquo;AI&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Oltre Scratch: Riflessioni critiche sul concetto di coding in Italia</title>
       <link>https://cr1s1um.github.io/post/oltre-scratch-riflessioni-critiche-sul-concetto-di-coding-in-italia/</link>
