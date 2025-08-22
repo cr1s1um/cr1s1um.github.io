@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Coding on ~# cr1s1um &gt; /dev/random</title>
+    <link>http://localhost:1313/en/categories/coding/</link>
+    <description>Recent content in Coding on ~# cr1s1um &gt; /dev/random</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/categories/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build Your First Artificial Neuron in C: The Perceptron Made Simple</title>
+      <link>http://localhost:1313/en/post/perceptron-c-artificial-neuron-first-step/</link>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/perceptron-c-artificial-neuron-first-step/</guid>
+      <description>Learn how to build a perceptron in C: your first artificial neuron explained step by step, the foundation of neural networks and machine learning.</description>
+    </item>
+  </channel>
+</rss>

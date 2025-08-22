@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>~# cr1s1um &gt; /dev/random</title>
+    <link>https://cr1s1um.github.io/it/</link>
+    <description>Recent content on ~# cr1s1um &gt; /dev/random</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>it</language>
+    <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://cr1s1um.github.io/it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>/* bannator.py: lo script Python di 44 righe che blocca attacchi brute force (e ti introduce alla programmazione!) */</title>
+      <link>https://cr1s1um.github.io/it/post/bannator-python-script-blocca-brute-force/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/it/post/bannator-python-script-blocca-brute-force/</guid>
+      <description>Scopri bannator.py: uno script Python di sole 44 righe che blocca gli attacchi brute force su Linux. Un esempio pratico di sicurezza e programmazione.</description>
+    </item>
+    <item>
+      <title>/* Costruisci il tuo primo neurone artificiale in C: il Percettrone spiegato semplice */</title>
+      <link>https://cr1s1um.github.io/it/post/percettrone-c-neurone-artificiale-primo-passo/</link>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/it/post/percettrone-c-neurone-artificiale-primo-passo/</guid>
+      <description>Impara a costruire un percettrone in C: il tuo primo neurone artificiale spiegato in modo semplice, base delle reti neurali e del machine learning.</description>
+    </item>
+    <item>
+      <title>Privacy e cookie policy</title>
+      <link>https://cr1s1um.github.io/it/privacy/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/it/privacy/</guid>
+      <description>&lt;h2 id=&#34;informativa-sulla-privacy&#34;&gt;Informativa sulla Privacy&lt;/h2&gt;
+&lt;p&gt;Ai sensi dell’articolo 13 del Regolamento (UE) 2016/679 (&amp;ldquo;GDPR&amp;rdquo;), ti informiamo che il presente sito web rispetta e tutela la riservatezza dei dati personali degli utenti.&lt;/p&gt;
+&lt;h3 id=&#34;titolare-del-trattamento&#34;&gt;Titolare del trattamento&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Nome&lt;/strong&gt;: Vincenzo Argese&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: vincenzo#dot#argese#at#gmail#dot#com&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sito&lt;/strong&gt;: &lt;a href=&#34;https://cr1s1um.github.io&#34;&gt;https://cr1s1um.github.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;finalità-del-trattamento-base-giuridica-e-tipologia-dei-dati-trattati&#34;&gt;Finalità del trattamento, base giuridica e tipologia dei dati trattati&lt;/h3&gt;
+&lt;p&gt;Il sito tratta i seguenti dati personali per le finalità indicate:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cookie di Google Analytics&lt;/strong&gt;: Il sito utilizza Google Analytics (gtag.js) per analizzare in forma aggregata le visite al sito e migliorare i contenuti. I cookie possono raccogliere informazioni come l&amp;rsquo;indirizzo IP, browser, dispositivo, sistema operativo, pagine visitate. La base giuridica è il consenso dell’interessato (art. 6, par. 1, lett. a GDPR). Il tracciamento è attivo solo previo consenso tramite banner cookie.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>/* Coding in Italia: perché Scratch non basta (e cosa serve davvero imparare) */</title>
+      <link>https://cr1s1um.github.io/it/post/coding-italia-scratch-vs-programmazione-vera/</link>
+      <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/it/post/coding-italia-scratch-vs-programmazione-vera/</guid>
+      <description>In Italia il coding è spesso ridotto a Scratch. Scopri perché non basta e perché linguaggi di programmazione veri come C e Python sono fondamentali per imparare davvero a programmare.</description>
+    </item>
+    <item>
+      <title>/* La configurazione definitiva di ViM (.vimrc) che ogni sviluppatore dovrebbe provare */</title>
+      <link>https://cr1s1um.github.io/it/post/configurazione-vim-vimrc-definitivo/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/it/post/configurazione-vim-vimrc-definitivo/</guid>
+      <description>Download and customize the ultimate .vimrc configuration for ViM: fast, powerful, and optimized for developers and sysadmins.</description>
+    </item>
+    <item>
+      <title>/* About me */</title>
+      <link>https://cr1s1um.github.io/it/chi-sono/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/it/chi-sono/</guid>
+      <description>&lt;h1 id=&#34;ciao-e-benvenuti&#34;&gt;Ciao e benvenuti!&lt;/h1&gt;
+&lt;p&gt;Sono &lt;strong&gt;Vincenzo Argese&lt;/strong&gt; e la mia passione per l’informatica e la programmazione è iniziata nel &lt;strong&gt;1989&lt;/strong&gt;, quando i miei genitori mi regalarono un &lt;strong&gt;Commodore 64&lt;/strong&gt;. Con quel piccolo computer e il suo &lt;strong&gt;manuale di programmazione in BASIC&lt;/strong&gt;, ho scritto le prime righe di codice.&lt;/p&gt;
+&lt;p&gt;Nel &lt;strong&gt;2011&lt;/strong&gt; ho avviato la mia attività di &lt;strong&gt;consulenza informatica&lt;/strong&gt;, focalizzata su &lt;strong&gt;cybersecurity&lt;/strong&gt; e &lt;strong&gt;software development&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Dal &lt;strong&gt;2012&lt;/strong&gt; mi sono specializzato in &lt;strong&gt;Digital Forensics&lt;/strong&gt; e &lt;strong&gt;Incident Response&lt;/strong&gt; (&lt;strong&gt;DFIR&lt;/strong&gt;) e svolgo il ruolo di &lt;strong&gt;Consulente Tecnico d’Ufficio (CTU)&lt;/strong&gt; per la Magistratura in ambito di giustizia penale.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>/* Hello World: perché tutti i programmatori iniziano da qui */</title>
+      <link>https://cr1s1um.github.io/it/post/hello-world-c-primo-programma/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/it/post/hello-world-c-primo-programma/</guid>
+      <description>Scopri come scrivere il tuo primo programma in C con Hello World: il punto di partenza per diventare un programmatore e capire la logica del codice.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cybersecurity and Digital Forensics on ~# cr1s1um &gt; /dev/random</title>
+    <link>https://cr1s1um.github.io/en/categories/cybersecurity-and-digital-forensics/</link>
+    <description>Recent content in Cybersecurity and Digital Forensics on ~# cr1s1um &gt; /dev/random</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://cr1s1um.github.io/en/categories/cybersecurity-and-digital-forensics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>/* bannator.py: The 44 line Python Script That Blocks Brute Force Attacks (this script introduces you to programming!) */</title>
+      <link>https://cr1s1um.github.io/en/post/bannator-python-script-blocks-brute-force/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/en/post/bannator-python-script-blocks-brute-force/</guid>
+      <description>Discover bannator.py: a 44 line Python script that blocks brute force attacks on Linux. A practical example of security and coding.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Linguaggi Di Programmazione on ~# cr1s1um &gt; /dev/random</title>
+    <link>https://cr1s1um.github.io/it/tags/linguaggi-di-programmazione/</link>
+    <description>Recent content in Linguaggi Di Programmazione on ~# cr1s1um &gt; /dev/random</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>it</language>
+    <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://cr1s1um.github.io/it/tags/linguaggi-di-programmazione/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>/* bannator.py: lo script Python di 44 righe che blocca attacchi brute force (e ti introduce alla programmazione!) */</title>
+      <link>https://cr1s1um.github.io/it/post/bannator-python-script-blocca-brute-force/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/it/post/bannator-python-script-blocca-brute-force/</guid>
+      <description>Scopri bannator.py: uno script Python di sole 44 righe che blocca gli attacchi brute force su Linux. Un esempio pratico di sicurezza e programmazione.</description>
+    </item>
+    <item>
+      <title>/* Coding in Italia: perché Scratch non basta (e cosa serve davvero imparare) */</title>
+      <link>https://cr1s1um.github.io/it/post/coding-italia-scratch-vs-programmazione-vera/</link>
+      <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/it/post/coding-italia-scratch-vs-programmazione-vera/</guid>
+      <description>In Italia il coding è spesso ridotto a Scratch. Scopri perché non basta e perché linguaggi di programmazione veri come C e Python sono fondamentali per imparare davvero a programmare.</description>
+    </item>
+    <item>
+      <title>/* Hello World: perché tutti i programmatori iniziano da qui */</title>
+      <link>https://cr1s1um.github.io/it/post/hello-world-c-primo-programma/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/it/post/hello-world-c-primo-programma/</guid>
+      <description>Scopri come scrivere il tuo primo programma in C con Hello World: il punto di partenza per diventare un programmatore e capire la logica del codice.</description>
+    </item>
+  </channel>
+</rss>

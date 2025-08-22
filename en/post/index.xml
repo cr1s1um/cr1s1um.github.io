@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on ~# cr1s1um &gt; /dev/random</title>
+    <link>https://cr1s1um.github.io/en/post/</link>
+    <description>Recent content in Posts on ~# cr1s1um &gt; /dev/random</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://cr1s1um.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>/* bannator.py: The 44 line Python Script That Blocks Brute Force Attacks (this script introduces you to programming!) */</title>
+      <link>https://cr1s1um.github.io/en/post/bannator-python-script-blocks-brute-force/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/en/post/bannator-python-script-blocks-brute-force/</guid>
+      <description>Discover bannator.py: a 44 line Python script that blocks brute force attacks on Linux. A practical example of security and coding.</description>
+    </item>
+    <item>
+      <title>/* Build Your First Artificial Neuron in C: The Perceptron Made Simple */</title>
+      <link>https://cr1s1um.github.io/en/post/perceptron-c-artificial-neuron-first-step/</link>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/en/post/perceptron-c-artificial-neuron-first-step/</guid>
+      <description>Learn how to build a perceptron in C: your first artificial neuron explained step by step, the foundation of neural networks and machine learning.</description>
+    </item>
+    <item>
+      <title>/* Coding in Italy: Why Scratch Isn’t Enough (and What Students Really Need) */</title>
+      <link>https://cr1s1um.github.io/en/post/coding-italy-scratch-vs-real-programming/</link>
+      <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/en/post/coding-italy-scratch-vs-real-programming/</guid>
+      <description>In Italy, coding often means Scratch. Discover why that’s not enough and why real programming languages like C and Python are essential.</description>
+    </item>
+    <item>
+      <title>/* The Ultimate ViM Configuration (.vimrc) Every Developer Should Try */</title>
+      <link>https://cr1s1um.github.io/en/post/ultimate-vim-vimrc-configuration/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/en/post/ultimate-vim-vimrc-configuration/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;ViM Logo&#34; loading=&#34;lazy&#34; src=&#34;https://www.vasystems.it/img/vimlogo.svg.webp&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;my-vimrc&#34;&gt;My .vimrc&lt;/h1&gt;
+&lt;p&gt;Dear developers, IT professionals, and system administrators worldwide, this is my final version of the &lt;code&gt;.vimrc&lt;/code&gt; file, and I want to share it with everyone.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cr1s1um/vimrc&#34;&gt;GitHub Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Published: 2025-03-04&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Ah&amp;hellip; I have disabled the ALE and Copilot plugins at startup. They are very convenient, but I find them quite intrusive, so I enable them only when needed or necessary.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You can enable them manually with the following commands (I prefer enable them when needed):&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>/* Hello World in C: Why Every Programmer Starts Here */</title>
+      <link>https://cr1s1um.github.io/en/post/hello-world-c-first-program/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/en/post/hello-world-c-first-program/</guid>
+      <description>Learn how to write your first program in C with Hello World: the starting point for every programmer to understand coding logic.</description>
+    </item>
+  </channel>
+</rss>

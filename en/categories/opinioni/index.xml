@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Opinioni on cr1s1um &gt; /dev/random</title>
+    <link>http://localhost:1313/en/categories/opinioni/</link>
+    <description>Recent content in Opinioni on cr1s1um &gt; /dev/random</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 29 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/categories/opinioni/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oltre Scratch: Riflessioni critiche sul concetto di coding in Italia</title>
+      <link>http://localhost:1313/en/post/oltre-scratch-riflessioni-critiche-sul-concetto-di-coding-in-italia/</link>
+      <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/oltre-scratch-riflessioni-critiche-sul-concetto-di-coding-in-italia/</guid>
+      <description>&lt;p&gt;In the 1980s and 1990s, many kids like me were introduced to the world of computing thanks to the legendary Commodore 64, the first assembled personal computers, and rudimentary operating systems like DOS and Windows 3.11. I still vividly remember my first Commodore 64, a gift from my parents in 1989. I was just seven years old, in the second grade of my small hometown school, and the wonder I felt when powering up that computer, with its unmistakable blue and cyan screen, was priceless. That little device opened up an entire universe before me, filled with challenges, study, dedication, and gratification.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
