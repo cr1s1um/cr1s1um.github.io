@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hello World on ~# cr1s1um &gt; /dev/random</title>
-    <link>https://cr1s1um.github.io/it/tags/hello-world/</link>
+    <link>http://localhost:1313/it/tags/hello-world/</link>
     <description>Recent content in Hello World on ~# cr1s1um &gt; /dev/random</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>it</language>
     <lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cr1s1um.github.io/it/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/it/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>/* Hello World: perché tutti i programmatori iniziano da qui */</title>
-      <link>https://cr1s1um.github.io/it/post/hello-world-c-primo-programma/</link>
+      <link>http://localhost:1313/it/post/hello-world-c-primo-programma/</link>
       <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://cr1s1um.github.io/it/post/hello-world-c-primo-programma/</guid>
+      <guid>http://localhost:1313/it/post/hello-world-c-primo-programma/</guid>
       <description>Scopri come scrivere il tuo primo programma in C con Hello World: il punto di partenza per diventare un programmatore e capire la logica del codice.</description>
     </item>
   </channel>
