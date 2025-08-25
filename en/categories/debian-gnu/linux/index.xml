@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Debian GNU/Linux on ~# cr1s1um &gt; /dev/random</title>
-    <link>http://localhost:1313/en/categories/debian-gnu/linux/</link>
+    <link>https://cr1s1um.github.io/en/categories/debian-gnu/linux/</link>
     <description>Recent content in Debian GNU/Linux on ~# cr1s1um &gt; /dev/random</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>en</language>
     <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/categories/debian-gnu/linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cr1s1um.github.io/en/categories/debian-gnu/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>/* bannator.py: The 44 line Python Script That Blocks Brute Force Attacks (this script introduces you to programming!) */</title>
-      <link>http://localhost:1313/en/post/bannator-python-script-blocks-brute-force/</link>
+      <link>https://cr1s1um.github.io/en/post/bannator-python-script-blocks-brute-force/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/bannator-python-script-blocks-brute-force/</guid>
+      <guid>https://cr1s1um.github.io/en/post/bannator-python-script-blocks-brute-force/</guid>
       <description>Discover bannator.py: a 44 line Python script that blocks brute force attacks on Linux. A practical example of security and coding.</description>
     </item>
   </channel>

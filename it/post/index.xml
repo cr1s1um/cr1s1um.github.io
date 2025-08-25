@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on ~# cr1s1um &gt; /dev/random</title>
-    <link>http://localhost:1313/it/post/</link>
+    <link>https://cr1s1um.github.io/it/post/</link>
     <description>Recent content in Posts on ~# cr1s1um &gt; /dev/random</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>it</language>
     <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/it/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cr1s1um.github.io/it/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>/* bannator.py: lo script Python di 44 righe che blocca attacchi brute force (e ti introduce alla programmazione!) */</title>
-      <link>http://localhost:1313/it/post/bannator-python-script-blocca-brute-force/</link>
+      <link>https://cr1s1um.github.io/it/post/bannator-python-script-blocca-brute-force/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/post/bannator-python-script-blocca-brute-force/</guid>
+      <guid>https://cr1s1um.github.io/it/post/bannator-python-script-blocca-brute-force/</guid>
       <description>Scopri bannator.py: uno script Python di sole 44 righe che blocca gli attacchi brute force su Linux. Un esempio pratico di sicurezza e programmazione.</description>
     </item>
     <item>
       <title>/* Costruisci il tuo primo neurone artificiale in C: il Percettrone spiegato semplice */</title>
-      <link>http://localhost:1313/it/post/percettrone-c-neurone-artificiale-primo-passo/</link>
+      <link>https://cr1s1um.github.io/it/post/percettrone-c-neurone-artificiale-primo-passo/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/post/percettrone-c-neurone-artificiale-primo-passo/</guid>
+      <guid>https://cr1s1um.github.io/it/post/percettrone-c-neurone-artificiale-primo-passo/</guid>
       <description>Impara a costruire un percettrone in C: il tuo primo neurone artificiale spiegato in modo semplice, base delle reti neurali e del machine learning.</description>
     </item>
     <item>
       <title>/* Coding in Italia: perché Scratch non basta (e cosa serve davvero imparare) */</title>
-      <link>http://localhost:1313/it/post/coding-italia-scratch-vs-programmazione-vera/</link>
+      <link>https://cr1s1um.github.io/it/post/coding-italia-scratch-vs-programmazione-vera/</link>
       <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/post/coding-italia-scratch-vs-programmazione-vera/</guid>
+      <guid>https://cr1s1um.github.io/it/post/coding-italia-scratch-vs-programmazione-vera/</guid>
       <description>In Italia il coding è spesso ridotto a Scratch. Scopri perché non basta e perché linguaggi di programmazione veri come C e Python sono fondamentali per imparare davvero a programmare.</description>
     </item>
     <item>
       <title>/* La configurazione definitiva di ViM (.vimrc) che ogni sviluppatore dovrebbe provare */</title>
-      <link>http://localhost:1313/it/post/configurazione-vim-vimrc-definitivo/</link>
+      <link>https://cr1s1um.github.io/it/post/configurazione-vim-vimrc-definitivo/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/post/configurazione-vim-vimrc-definitivo/</guid>
+      <guid>https://cr1s1um.github.io/it/post/configurazione-vim-vimrc-definitivo/</guid>
       <description>Download and customize the ultimate .vimrc configuration for ViM: fast, powerful, and optimized for developers and sysadmins.</description>
     </item>
     <item>
       <title>/* Hello World: perché tutti i programmatori iniziano da qui */</title>
-      <link>http://localhost:1313/it/post/hello-world-c-primo-programma/</link>
+      <link>https://cr1s1um.github.io/it/post/hello-world-c-primo-programma/</link>
       <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/post/hello-world-c-primo-programma/</guid>
+      <guid>https://cr1s1um.github.io/it/post/hello-world-c-primo-programma/</guid>
       <description>Scopri come scrivere il tuo primo programma in C con Hello World: il punto di partenza per diventare un programmatore e capire la logica del codice.</description>
     </item>
   </channel>

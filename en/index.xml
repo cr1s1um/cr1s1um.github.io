@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>~# cr1s1um &gt; /dev/random</title>
-    <link>http://localhost:1313/en/</link>
+    <link>https://cr1s1um.github.io/en/</link>
     <description>Recent content on ~# cr1s1um &gt; /dev/random</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>en</language>
     <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cr1s1um.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>/* bannator.py: The 44 line Python Script That Blocks Brute Force Attacks (this script introduces you to programming!) */</title>
-      <link>http://localhost:1313/en/post/bannator-python-script-blocks-brute-force/</link>
+      <link>https://cr1s1um.github.io/en/post/bannator-python-script-blocks-brute-force/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/bannator-python-script-blocks-brute-force/</guid>
+      <guid>https://cr1s1um.github.io/en/post/bannator-python-script-blocks-brute-force/</guid>
       <description>Discover bannator.py: a 44 line Python script that blocks brute force attacks on Linux. A practical example of security and coding.</description>
     </item>
     <item>
       <title>/* Build Your First Artificial Neuron in C: The Perceptron Made Simple */</title>
-      <link>http://localhost:1313/en/post/perceptron-c-artificial-neuron-first-step/</link>
+      <link>https://cr1s1um.github.io/en/post/perceptron-c-artificial-neuron-first-step/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/perceptron-c-artificial-neuron-first-step/</guid>
+      <guid>https://cr1s1um.github.io/en/post/perceptron-c-artificial-neuron-first-step/</guid>
       <description>Learn how to build a perceptron in C: your first artificial neuron explained step by step, the foundation of neural networks and machine learning.</description>
     </item>
     <item>
       <title>Privacy and cookie policy</title>
-      <link>http://localhost:1313/en/privacy/</link>
+      <link>https://cr1s1um.github.io/en/privacy/</link>
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/privacy/</guid>
+      <guid>https://cr1s1um.github.io/en/privacy/</guid>
       <description>&lt;h2 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h2&gt;
 &lt;p&gt;Pursuant to Article 13 of Regulation (EU) 2016/679 (&amp;ldquo;GDPR&amp;rdquo;), we inform you that this website respects and protects the confidentiality of users&amp;rsquo; personal data.&lt;/p&gt;
 &lt;h3 id=&#34;data-controller&#34;&gt;Data Controller&lt;/h3&gt;
@@ -43,16 +43,16 @@
     </item>
     <item>
       <title>/* Coding in Italy: Why Scratch Isn’t Enough (and What Students Really Need) */</title>
-      <link>http://localhost:1313/en/post/coding-italy-scratch-vs-real-programming/</link>
+      <link>https://cr1s1um.github.io/en/post/coding-italy-scratch-vs-real-programming/</link>
       <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/coding-italy-scratch-vs-real-programming/</guid>
+      <guid>https://cr1s1um.github.io/en/post/coding-italy-scratch-vs-real-programming/</guid>
       <description>In Italy, coding often means Scratch. Discover why that’s not enough and why real programming languages like C and Python are essential.</description>
     </item>
     <item>
       <title>/* The Ultimate ViM Configuration (.vimrc) Every Developer Should Try */</title>
-      <link>http://localhost:1313/en/post/ultimate-vim-vimrc-configuration/</link>
+      <link>https://cr1s1um.github.io/en/post/ultimate-vim-vimrc-configuration/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/ultimate-vim-vimrc-configuration/</guid>
+      <guid>https://cr1s1um.github.io/en/post/ultimate-vim-vimrc-configuration/</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;ViM Logo&#34; loading=&#34;lazy&#34; src=&#34;https://www.vasystems.it/img/vimlogo.svg.webp&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;my-vimrc&#34;&gt;My .vimrc&lt;/h1&gt;
 &lt;p&gt;Dear developers, IT professionals, and system administrators worldwide, this is my final version of the &lt;code&gt;.vimrc&lt;/code&gt; file, and I want to share it with everyone.&lt;/p&gt;
@@ -65,9 +65,9 @@
     </item>
     <item>
       <title>/* About me */</title>
-      <link>http://localhost:1313/en/about-me/</link>
+      <link>https://cr1s1um.github.io/en/about-me/</link>
       <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/about-me/</guid>
+      <guid>https://cr1s1um.github.io/en/about-me/</guid>
       <description>&lt;h1 id=&#34;hi-and-wellcome&#34;&gt;Hi and wellcome!&lt;/h1&gt;
 &lt;p&gt;I’m &lt;strong&gt;Vincenzo Argese&lt;/strong&gt;, and my passion for computers and programming began back in &lt;strong&gt;1989&lt;/strong&gt;, when my parents gave me a &lt;strong&gt;Commodore 64&lt;/strong&gt;. With that little machine and its &lt;strong&gt;BASIC programming manual&lt;/strong&gt;, I wrote my very first lines of code.&lt;/p&gt;
 &lt;p&gt;In &lt;strong&gt;2011&lt;/strong&gt;, I started my own &lt;strong&gt;IT consulting business&lt;/strong&gt;, focusing on &lt;strong&gt;cybersecurity&lt;/strong&gt; and &lt;strong&gt;software development&lt;/strong&gt;.&lt;/p&gt;
@@ -75,9 +75,9 @@
     </item>
     <item>
       <title>/* Hello World in C: Why Every Programmer Starts Here */</title>
-      <link>http://localhost:1313/en/post/hello-world-c-first-program/</link>
+      <link>https://cr1s1um.github.io/en/post/hello-world-c-first-program/</link>
       <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/hello-world-c-first-program/</guid>
+      <guid>https://cr1s1um.github.io/en/post/hello-world-c-first-program/</guid>
       <description>Learn how to write your first program in C with Hello World: the starting point for every programmer to understand coding logic.</description>
     </item>
   </channel>

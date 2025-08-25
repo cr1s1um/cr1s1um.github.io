@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Large Language Model on ~# cr1s1um &gt; /dev/random</title>
-    <link>http://localhost:1313/en/tags/large-language-model/</link>
+    <link>https://cr1s1um.github.io/en/tags/large-language-model/</link>
     <description>Recent content in Large Language Model on ~# cr1s1um &gt; /dev/random</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>en</language>
     <lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/large-language-model/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cr1s1um.github.io/en/tags/large-language-model/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>/* Build Your First Artificial Neuron in C: The Perceptron Made Simple */</title>
-      <link>http://localhost:1313/en/post/perceptron-c-artificial-neuron-first-step/</link>
+      <link>https://cr1s1um.github.io/en/post/perceptron-c-artificial-neuron-first-step/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/perceptron-c-artificial-neuron-first-step/</guid>
+      <guid>https://cr1s1um.github.io/en/post/perceptron-c-artificial-neuron-first-step/</guid>
       <description>Learn how to build a perceptron in C: your first artificial neuron explained step by step, the foundation of neural networks and machine learning.</description>
     </item>
   </channel>

@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on ~# cr1s1um &gt; /dev/random</title>
-    <link>http://localhost:1313/en/tags/</link>
+    <link>https://cr1s1um.github.io/en/tags/</link>
     <description>Recent content in Tags on ~# cr1s1um &gt; /dev/random</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>en</language>
     <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cr1s1um.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Programming Languages</title>
-      <link>http://localhost:1313/en/tags/programming-languages/</link>
+      <link>https://cr1s1um.github.io/en/tags/programming-languages/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/programming-languages/</guid>
+      <guid>https://cr1s1um.github.io/en/tags/programming-languages/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/en/tags/python/</link>
+      <link>https://cr1s1um.github.io/en/tags/python/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/python/</guid>
+      <guid>https://cr1s1um.github.io/en/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/en/tags/ai/</link>
+      <link>https://cr1s1um.github.io/en/tags/ai/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/ai/</guid>
+      <guid>https://cr1s1um.github.io/en/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>C</title>
-      <link>http://localhost:1313/en/tags/c/</link>
+      <link>https://cr1s1um.github.io/en/tags/c/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/c/</guid>
+      <guid>https://cr1s1um.github.io/en/tags/c/</guid>
       <description></description>
     </item>
     <item>
       <title>Large Language Model</title>
-      <link>http://localhost:1313/en/tags/large-language-model/</link>
+      <link>https://cr1s1um.github.io/en/tags/large-language-model/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/large-language-model/</guid>
+      <guid>https://cr1s1um.github.io/en/tags/large-language-model/</guid>
       <description></description>
     </item>
     <item>
       <title>LLM</title>
-      <link>http://localhost:1313/en/tags/llm/</link>
+      <link>https://cr1s1um.github.io/en/tags/llm/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/llm/</guid>
+      <guid>https://cr1s1um.github.io/en/tags/llm/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
-      <link>http://localhost:1313/en/tags/machine-learning/</link>
+      <link>https://cr1s1um.github.io/en/tags/machine-learning/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/machine-learning/</guid>
+      <guid>https://cr1s1um.github.io/en/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Neural Network</title>
-      <link>http://localhost:1313/en/tags/neural-network/</link>
+      <link>https://cr1s1um.github.io/en/tags/neural-network/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/neural-network/</guid>
+      <guid>https://cr1s1um.github.io/en/tags/neural-network/</guid>
       <description></description>
     </item>
     <item>
       <title>Coding</title>
-      <link>http://localhost:1313/en/tags/coding/</link>
+      <link>https://cr1s1um.github.io/en/tags/coding/</link>
       <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/coding/</guid>
+      <guid>https://cr1s1um.github.io/en/tags/coding/</guid>
       <description></description>
     </item>
     <item>
       <title>Commodore 64</title>
-      <link>http://localhost:1313/en/tags/commodore-64/</link>
+      <link>https://cr1s1um.github.io/en/tags/commodore-64/</link>
       <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/commodore-64/</guid>
+      <guid>https://cr1s1um.github.io/en/tags/commodore-64/</guid>
       <description></description>
     </item>
     <item>
       <title>Scartch</title>
-      <link>http://localhost:1313/en/tags/scartch/</link>
+      <link>https://cr1s1um.github.io/en/tags/scartch/</link>
       <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/scartch/</guid>
+      <guid>https://cr1s1um.github.io/en/tags/scartch/</guid>
       <description></description>
     </item>
     <item>
       <title>Editor</title>
-      <link>http://localhost:1313/en/tags/editor/</link>
+      <link>https://cr1s1um.github.io/en/tags/editor/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/editor/</guid>
+      <guid>https://cr1s1um.github.io/en/tags/editor/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>http://localhost:1313/en/tags/linux/</link>
+      <link>https://cr1s1um.github.io/en/tags/linux/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/linux/</guid>
+      <guid>https://cr1s1um.github.io/en/tags/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Script</title>
-      <link>http://localhost:1313/en/tags/script/</link>
+      <link>https://cr1s1um.github.io/en/tags/script/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/script/</guid>
+      <guid>https://cr1s1um.github.io/en/tags/script/</guid>
       <description></description>
     </item>
     <item>
       <title>Sysadmin</title>
-      <link>http://localhost:1313/en/tags/sysadmin/</link>
+      <link>https://cr1s1um.github.io/en/tags/sysadmin/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/sysadmin/</guid>
+      <guid>https://cr1s1um.github.io/en/tags/sysadmin/</guid>
       <description></description>
     </item>
     <item>
       <title>Vim</title>
-      <link>http://localhost:1313/en/tags/vim/</link>
+      <link>https://cr1s1um.github.io/en/tags/vim/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/vim/</guid>
+      <guid>https://cr1s1um.github.io/en/tags/vim/</guid>
       <description></description>
     </item>
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/en/tags/hello-world/</link>
+      <link>https://cr1s1um.github.io/en/tags/hello-world/</link>
       <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/hello-world/</guid>
+      <guid>https://cr1s1um.github.io/en/tags/hello-world/</guid>
       <description></description>
     </item>
   </channel>
