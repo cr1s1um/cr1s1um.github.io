@@ -1,10 +1,16 @@
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XHH0DSS4T3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+window.dataLayer = window.dataLayer || [];
+function gtag() {
+  dataLayer.push(arguments);
+}
 
-  gtag('config', 'G-XHH0DSS4T3');
-</script>
-  
+if (!window.__crisiumGtagLoaded) {
+  window.__crisiumGtagLoaded = true;
+
+  var script = document.createElement("script");
+  script.async = true;
+  script.src = "https://www.googletagmanager.com/gtag/js?id=G-XHH0DSS4T3";
+  document.head.appendChild(script);
+
+  gtag("js", new Date());
+  gtag("config", "G-XHH0DSS4T3");
+}

@@ -4,6 +4,16 @@
   <url>
     <loc>https://cr1s1um.github.io/it/post/bannator-python-script-blocca-brute-force/</loc>
     <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/post/bannator-python-script-blocks-brute-force/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/post/bannator-python-script-blocca-brute-force/"
+                />
   </url><url>
     <loc>https://cr1s1um.github.io/it/</loc>
     <lastmod>2025-08-13T00:00:00+00:00</lastmod>
@@ -16,51 +26,6 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://cr1s1um.github.io/it/"
-                />
-  </url><url>
-    <loc>https://cr1s1um.github.io/it/categories/</loc>
-    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cr1s1um.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://cr1s1um.github.io/it/categories/"
-                />
-  </url><url>
-    <loc>https://cr1s1um.github.io/it/categories/cybersecurity-e-digital-forensics/</loc>
-    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cr1s1um.github.io/it/categories/debian-gnu/linux/</loc>
-    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cr1s1um.github.io/en/categories/debian-gnu/linux/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://cr1s1um.github.io/it/categories/debian-gnu/linux/"
-                />
-  </url><url>
-    <loc>https://cr1s1um.github.io/it/tags/linguaggi-di-programmazione/</loc>
-    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cr1s1um.github.io/it/tags/linux/</loc>
-    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cr1s1um.github.io/en/tags/linux/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://cr1s1um.github.io/it/tags/linux/"
                 />
   </url><url>
     <loc>https://cr1s1um.github.io/it/post/</loc>
@@ -76,6 +41,113 @@
                 href="https://cr1s1um.github.io/it/post/"
                 />
   </url><url>
+    <loc>https://cr1s1um.github.io/it/tags/brute-force/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/tags/brute-force/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/tags/brute-force/"
+                />
+  </url><url>
+    <loc>https://cr1s1um.github.io/it/categories/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/categories/"
+                />
+  </url><url>
+    <loc>https://cr1s1um.github.io/it/categories/cybersecurity/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/categories/cybersecurity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/categories/cybersecurity/"
+                />
+  </url><url>
+    <loc>https://cr1s1um.github.io/it/technologies/debian/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/technologies/debian/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/technologies/debian/"
+                />
+  </url><url>
+    <loc>https://cr1s1um.github.io/it/categories/debian-gnu/linux/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/categories/debian-gnu/linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/categories/debian-gnu/linux/"
+                />
+  </url><url>
+    <loc>https://cr1s1um.github.io/it/levels/intermedio/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cr1s1um.github.io/it/levels/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/levels/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/levels/"
+                />
+  </url><url>
+    <loc>https://cr1s1um.github.io/it/tags/linux/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/tags/linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/tags/linux/"
+                />
+  </url><url>
+    <loc>https://cr1s1um.github.io/it/technologies/linux/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/technologies/linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/technologies/linux/"
+                />
+  </url><url>
     <loc>https://cr1s1um.github.io/it/tags/python/</loc>
     <lastmod>2025-08-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -87,6 +159,32 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://cr1s1um.github.io/it/tags/python/"
+                />
+  </url><url>
+    <loc>https://cr1s1um.github.io/it/technologies/python/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/technologies/python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/technologies/python/"
+                />
+  </url><url>
+    <loc>https://cr1s1um.github.io/it/tags/ssh/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/tags/ssh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/tags/ssh/"
                 />
   </url><url>
     <loc>https://cr1s1um.github.io/it/categories/sviluppo-software/</loc>
@@ -105,11 +203,31 @@
                 href="https://cr1s1um.github.io/it/tags/"
                 />
   </url><url>
+    <loc>https://cr1s1um.github.io/it/technologies/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/technologies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/technologies/"
+                />
+  </url><url>
     <loc>https://cr1s1um.github.io/it/post/percettrone-c-neurone-artificiale-primo-passo/</loc>
     <lastmod>2025-08-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cr1s1um.github.io/it/categories/ai/</loc>
-    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/post/perceptron-c-artificial-neuron-first-step/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/post/percettrone-c-neurone-artificiale-primo-passo/"
+                />
   </url><url>
     <loc>https://cr1s1um.github.io/it/tags/ai/</loc>
     <lastmod>2025-08-09T00:00:00+00:00</lastmod>
@@ -124,6 +242,9 @@
                 href="https://cr1s1um.github.io/it/tags/ai/"
                 />
   </url><url>
+    <loc>https://cr1s1um.github.io/it/levels/base/</loc>
+    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://cr1s1um.github.io/it/tags/c/</loc>
     <lastmod>2025-08-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -137,20 +258,17 @@
                 href="https://cr1s1um.github.io/it/tags/c/"
                 />
   </url><url>
-    <loc>https://cr1s1um.github.io/it/categories/coding/</loc>
-    <lastmod>2025-08-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cr1s1um.github.io/it/tags/large-language-model/</loc>
+    <loc>https://cr1s1um.github.io/it/technologies/c/</loc>
     <lastmod>2025-08-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cr1s1um.github.io/en/tags/large-language-model/"
+                href="https://cr1s1um.github.io/en/technologies/c/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://cr1s1um.github.io/it/tags/large-language-model/"
+                href="https://cr1s1um.github.io/it/technologies/c/"
                 />
   </url><url>
     <loc>https://cr1s1um.github.io/it/tags/llm/</loc>
@@ -179,17 +297,17 @@
                 href="https://cr1s1um.github.io/it/tags/machine-learning/"
                 />
   </url><url>
-    <loc>https://cr1s1um.github.io/it/tags/neural-network/</loc>
+    <loc>https://cr1s1um.github.io/it/tags/neural-networks/</loc>
     <lastmod>2025-08-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cr1s1um.github.io/en/tags/neural-network/"
+                href="https://cr1s1um.github.io/en/tags/neural-networks/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://cr1s1um.github.io/it/tags/neural-network/"
+                href="https://cr1s1um.github.io/it/tags/neural-networks/"
                 />
   </url><url>
     <loc>https://cr1s1um.github.io/it/privacy/</loc>
@@ -207,18 +325,15 @@
   </url><url>
     <loc>https://cr1s1um.github.io/it/post/coding-italia-scratch-vs-programmazione-vera/</loc>
     <lastmod>2025-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cr1s1um.github.io/it/tags/coding/</loc>
-    <lastmod>2025-06-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cr1s1um.github.io/en/tags/coding/"
+                href="https://cr1s1um.github.io/en/post/coding-italy-scratch-vs-real-programming/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://cr1s1um.github.io/it/tags/coding/"
+                href="https://cr1s1um.github.io/it/post/coding-italia-scratch-vs-programmazione-vera/"
                 />
   </url><url>
     <loc>https://cr1s1um.github.io/it/tags/commodore-64/</loc>
@@ -234,27 +349,37 @@
                 href="https://cr1s1um.github.io/it/tags/commodore-64/"
                 />
   </url><url>
-    <loc>https://cr1s1um.github.io/it/categories/punti-di-vista/</loc>
+    <loc>https://cr1s1um.github.io/it/tags/didattica/</loc>
     <lastmod>2025-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cr1s1um.github.io/it/tags/scartch/</loc>
+    <loc>https://cr1s1um.github.io/it/categories/editoriali-/-punti-di-vista/</loc>
+    <lastmod>2025-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cr1s1um.github.io/it/tags/scratch/</loc>
     <lastmod>2025-06-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cr1s1um.github.io/en/tags/scartch/"
+                href="https://cr1s1um.github.io/en/tags/scratch/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://cr1s1um.github.io/it/tags/scartch/"
+                href="https://cr1s1um.github.io/it/tags/scratch/"
                 />
   </url><url>
     <loc>https://cr1s1um.github.io/it/post/configurazione-vim-vimrc-definitivo/</loc>
     <lastmod>2025-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cr1s1um.github.io/it/tags/debian/</loc>
-    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/post/ultimate-vim-vimrc-configuration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/post/configurazione-vim-vimrc-definitivo/"
+                />
   </url><url>
     <loc>https://cr1s1um.github.io/it/tags/editor/</loc>
     <lastmod>2025-06-05T00:00:00+00:00</lastmod>
@@ -268,9 +393,6 @@
                 hreflang="it"
                 href="https://cr1s1um.github.io/it/tags/editor/"
                 />
-  </url><url>
-    <loc>https://cr1s1um.github.io/it/categories/open-source--tool/</loc>
-    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cr1s1um.github.io/it/tags/sysadmin/</loc>
     <lastmod>2025-06-05T00:00:00+00:00</lastmod>
@@ -298,11 +420,44 @@
                 href="https://cr1s1um.github.io/it/tags/vim/"
                 />
   </url><url>
+    <loc>https://cr1s1um.github.io/it/technologies/vim/</loc>
+    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/technologies/vim/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/technologies/vim/"
+                />
+  </url><url>
     <loc>https://cr1s1um.github.io/it/chi-sono/</loc>
     <lastmod>2025-06-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/whoami/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/chi-sono/"
+                />
   </url><url>
     <loc>https://cr1s1um.github.io/it/post/hello-world-c-primo-programma/</loc>
     <lastmod>2025-06-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/post/hello-world-c-first-program/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/post/hello-world-c-primo-programma/"
+                />
   </url><url>
     <loc>https://cr1s1um.github.io/it/tags/hello-world/</loc>
     <lastmod>2025-06-04T00:00:00+00:00</lastmod>
@@ -317,7 +472,32 @@
                 href="https://cr1s1um.github.io/it/tags/hello-world/"
                 />
   </url><url>
+    <loc>https://cr1s1um.github.io/it/tags/programmazione/</loc>
+    <lastmod>2025-06-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://cr1s1um.github.io/it/archivio/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/archivio/"
+                />
+  </url><url>
+    <loc>https://cr1s1um.github.io/it/topics/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/topics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/topics/"
+                />
   </url><url>
     <loc>https://cr1s1um.github.io/it/search/</loc>
     <xhtml:link
@@ -329,6 +509,66 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://cr1s1um.github.io/it/search/"
+                />
+  </url><url>
+    <loc>https://cr1s1um.github.io/it/topics/cybersecurity/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/topics/cybersecurity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/topics/cybersecurity/"
+                />
+  </url><url>
+    <loc>https://cr1s1um.github.io/it/topics/debian-gnu-linux/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/topics/debian-gnu-linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/topics/debian-gnu-linux/"
+                />
+  </url><url>
+    <loc>https://cr1s1um.github.io/it/topics/game-development/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/topics/game-development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/topics/game-development/"
+                />
+  </url><url>
+    <loc>https://cr1s1um.github.io/it/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/series/"
+                />
+  </url><url>
+    <loc>https://cr1s1um.github.io/it/topics/sviluppo-software/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/topics/software-development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/topics/sviluppo-software/"
                 />
   </url>
 </urlset>

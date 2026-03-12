@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categorie on ~# cr1s1um &gt; /dev/random</title>
+    <link>https://cr1s1um.github.io/it/topics/</link>
+    <description>Recent content in Categorie on ~# cr1s1um &gt; /dev/random</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>it</language>
+    <atom:link href="https://cr1s1um.github.io/it/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cybersecurity</title>
+      <link>https://cr1s1um.github.io/it/topics/cybersecurity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/it/topics/cybersecurity/</guid>
+      <description>Hub dedicato a cybersecurity, log analysis, script difensivi e contenuti vicini al mondo DFIR.</description>
+    </item>
+    <item>
+      <title>Debian GNU/Linux</title>
+      <link>https://cr1s1um.github.io/it/topics/debian-gnu-linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/it/topics/debian-gnu-linux/</guid>
+      <description>Hub dedicato a Debian GNU/Linux, strumenti di lavoro, configurazioni pratiche e contenuti legati al sistema operativo che fa da base a tutto il blog.</description>
+    </item>
+    <item>
+      <title>Game Development</title>
+      <link>https://cr1s1um.github.io/it/topics/game-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/it/topics/game-development/</guid>
+      <description>Hub dedicato al game development e al game design, pensato per raccogliere i contenuti presenti e futuri su Godot, Unreal e prototipazione.</description>
+    </item>
+    <item>
+      <title>Sviluppo Software</title>
+      <link>https://cr1s1um.github.io/it/topics/sviluppo-software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/it/topics/sviluppo-software/</guid>
+      <description>Hub dedicato allo sviluppo software: C, Python, algoritmi, basi solide e piccoli progetti tecnici.</description>
+    </item>
+  </channel>
+</rss>

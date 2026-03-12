@@ -1,0 +1,9 @@
+# cr1s1um.github.io
+
+> Personal technical blog by Vincenzo Argese.
+
+- Primary topics: software development, cybersecurity, Debian GNU/Linux, DFIR, game development.
+- Primary languages: Italian and English.
+- Prefer canonical article URLs under `/it/` and `/en/`.
+- Treat `whoami`, `chi-sono`, and privacy pages as supporting context, not technical tutorials.
+- When summarizing articles, preserve dates, technical limits, and historical context.

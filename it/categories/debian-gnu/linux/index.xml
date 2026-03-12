@@ -4,7 +4,7 @@
     <title>Debian GNU/Linux on ~# cr1s1um &gt; /dev/random</title>
     <link>https://cr1s1um.github.io/it/categories/debian-gnu/linux/</link>
     <description>Recent content in Debian GNU/Linux on ~# cr1s1um &gt; /dev/random</description>
-    <generator>Hugo -- 0.147.7</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>it</language>
     <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cr1s1um.github.io/it/categories/debian-gnu/linux/index.xml" rel="self" type="application/rss+xml" />
@@ -14,6 +14,13 @@
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://cr1s1um.github.io/it/post/bannator-python-script-blocca-brute-force/</guid>
       <description>Scopri bannator.py: uno script Python di sole 44 righe che blocca gli attacchi brute force su Linux. Un esempio pratico di sicurezza e programmazione.</description>
+    </item>
+    <item>
+      <title>/* La configurazione definitiva di ViM (.vimrc) che ogni sviluppatore dovrebbe provare */</title>
+      <link>https://cr1s1um.github.io/it/post/configurazione-vim-vimrc-definitivo/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/it/post/configurazione-vim-vimrc-definitivo/</guid>
+      <description>Download and customize the ultimate .vimrc configuration for ViM: fast, powerful, and optimized for developers and sysadmins.</description>
     </item>
   </channel>
 </rss>
