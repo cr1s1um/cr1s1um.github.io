@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>~# cr1s1um &gt; /dev/random</title>
-    <link>https://cr1s1um.github.io/it/</link>
+    <link>http://localhost:1313/it/</link>
     <description>Recent content on ~# cr1s1um &gt; /dev/random</description>
     <generator>Hugo -- 0.157.0</generator>
     <language>it</language>
     <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cr1s1um.github.io/it/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/it/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>/* bannator.py: lo script Python di 44 righe che blocca attacchi brute force (e ti introduce alla programmazione!) */</title>
-      <link>https://cr1s1um.github.io/it/post/bannator-python-script-blocca-brute-force/</link>
+      <link>http://localhost:1313/it/post/bannator-python-script-blocca-brute-force/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://cr1s1um.github.io/it/post/bannator-python-script-blocca-brute-force/</guid>
+      <guid>http://localhost:1313/it/post/bannator-python-script-blocca-brute-force/</guid>
       <description>Scopri bannator.py: uno script Python di sole 44 righe che blocca gli attacchi brute force su Linux. Un esempio pratico di sicurezza e programmazione.</description>
     </item>
     <item>
       <title>/* Costruisci il tuo primo neurone artificiale in C: il Percettrone spiegato semplice */</title>
-      <link>https://cr1s1um.github.io/it/post/percettrone-c-neurone-artificiale-primo-passo/</link>
+      <link>http://localhost:1313/it/post/percettrone-c-neurone-artificiale-primo-passo/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://cr1s1um.github.io/it/post/percettrone-c-neurone-artificiale-primo-passo/</guid>
+      <guid>http://localhost:1313/it/post/percettrone-c-neurone-artificiale-primo-passo/</guid>
       <description>Impara a costruire un percettrone in C: il tuo primo neurone artificiale spiegato in modo semplice, base delle reti neurali e del machine learning.</description>
     </item>
     <item>
       <title>Privacy e cookie policy</title>
-      <link>https://cr1s1um.github.io/it/privacy/</link>
+      <link>http://localhost:1313/it/privacy/</link>
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://cr1s1um.github.io/it/privacy/</guid>
+      <guid>http://localhost:1313/it/privacy/</guid>
       <description>Informativa privacy e cookie del blog: analytics, commenti, basi giuridiche e gestione del consenso.</description>
     </item>
     <item>
       <title>/* Coding in Italia: perché Scratch non basta (e cosa serve davvero imparare) */</title>
-      <link>https://cr1s1um.github.io/it/post/coding-italia-scratch-vs-programmazione-vera/</link>
+      <link>http://localhost:1313/it/post/coding-italia-scratch-vs-programmazione-vera/</link>
       <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://cr1s1um.github.io/it/post/coding-italia-scratch-vs-programmazione-vera/</guid>
+      <guid>http://localhost:1313/it/post/coding-italia-scratch-vs-programmazione-vera/</guid>
       <description>In Italia il coding è spesso ridotto a Scratch. Scopri perché non basta e perché linguaggi di programmazione veri come C e Python sono fondamentali per imparare davvero a programmare.</description>
     </item>
     <item>
       <title>/* La configurazione definitiva di ViM (.vimrc) che ogni sviluppatore dovrebbe provare */</title>
-      <link>https://cr1s1um.github.io/it/post/configurazione-vim-vimrc-definitivo/</link>
+      <link>http://localhost:1313/it/post/configurazione-vim-vimrc-definitivo/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://cr1s1um.github.io/it/post/configurazione-vim-vimrc-definitivo/</guid>
+      <guid>http://localhost:1313/it/post/configurazione-vim-vimrc-definitivo/</guid>
       <description>Download and customize the ultimate .vimrc configuration for ViM: fast, powerful, and optimized for developers and sysadmins.</description>
     </item>
     <item>
       <title>/* Chi sono */</title>
-      <link>https://cr1s1um.github.io/it/chi-sono/</link>
+      <link>http://localhost:1313/it/chi-sono/</link>
       <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://cr1s1um.github.io/it/chi-sono/</guid>
+      <guid>http://localhost:1313/it/chi-sono/</guid>
       <description>Profilo di Vincenzo Argese: sviluppo software, cybersecurity, DFIR, Debian GNU/Linux e game development.</description>
     </item>
     <item>
       <title>/* Hello World: perché tutti i programmatori iniziano da qui */</title>
-      <link>https://cr1s1um.github.io/it/post/hello-world-c-primo-programma/</link>
+      <link>http://localhost:1313/it/post/hello-world-c-primo-programma/</link>
       <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://cr1s1um.github.io/it/post/hello-world-c-primo-programma/</guid>
+      <guid>http://localhost:1313/it/post/hello-world-c-primo-programma/</guid>
       <description>Scopri come scrivere il tuo primo programma in C con Hello World: il punto di partenza per diventare un programmatore e capire la logica del codice.</description>
     </item>
     <item>
       <title>Cybersecurity</title>
-      <link>https://cr1s1um.github.io/it/topics/cybersecurity/</link>
+      <link>http://localhost:1313/it/topics/cybersecurity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cr1s1um.github.io/it/topics/cybersecurity/</guid>
+      <guid>http://localhost:1313/it/topics/cybersecurity/</guid>
       <description>Hub dedicato a cybersecurity, log analysis, script difensivi e contenuti vicini al mondo DFIR.</description>
     </item>
     <item>
       <title>Debian GNU/Linux</title>
-      <link>https://cr1s1um.github.io/it/topics/debian-gnu-linux/</link>
+      <link>http://localhost:1313/it/topics/debian-gnu-linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cr1s1um.github.io/it/topics/debian-gnu-linux/</guid>
+      <guid>http://localhost:1313/it/topics/debian-gnu-linux/</guid>
       <description>Hub dedicato a Debian GNU/Linux, strumenti di lavoro, configurazioni pratiche e contenuti legati al sistema operativo che fa da base a tutto il blog.</description>
     </item>
     <item>
       <title>Game Development</title>
-      <link>https://cr1s1um.github.io/it/topics/game-development/</link>
+      <link>http://localhost:1313/it/topics/game-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cr1s1um.github.io/it/topics/game-development/</guid>
+      <guid>http://localhost:1313/it/topics/game-development/</guid>
       <description>Hub dedicato al game development e al game design, pensato per raccogliere i contenuti presenti e futuri su Godot, Unreal e prototipazione.</description>
     </item>
     <item>
       <title>Sviluppo Software</title>
-      <link>https://cr1s1um.github.io/it/topics/sviluppo-software/</link>
+      <link>http://localhost:1313/it/topics/sviluppo-software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cr1s1um.github.io/it/topics/sviluppo-software/</guid>
+      <guid>http://localhost:1313/it/topics/sviluppo-software/</guid>
       <description>Hub dedicato allo sviluppo software: C, Python, algoritmi, basi solide e piccoli progetti tecnici.</description>
     </item>
   </channel>
