@@ -1,15 +1,3 @@
----
-title: "/* Chi sono */"
-date: 2025-06-04
-draft: false
-slug: "chi-sono"
-description: "Profilo di Vincenzo Argese: sviluppo software, cybersecurity, DFIR, Debian GNU/Linux e game development."
-summary: "Chi sono, da dove arriva il progetto cr1s1um e quali categorie tratto nel blog."
-disableShare: true
-comments: false
-translationKey: "about-page"
----
-
 # Ciao e benvenuti!
 
 Sono **Vincenzo Argese** e la mia passione per l’informatica e la programmazione è iniziata nel **1989**, quando i miei genitori mi regalarono un **Commodore 64**. Con quel piccolo computer e il suo **manuale di programmazione in BASIC**, ho scritto le prime righe di codice.  
