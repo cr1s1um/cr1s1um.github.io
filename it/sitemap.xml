@@ -109,6 +109,19 @@
                 href="https://cr1s1um.github.io/en/technologies/codex-cli/"
                 />
   </url><url>
+    <loc>https://cr1s1um.github.io/it/categories/cybersecurity/</loc>
+    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/categories/cybersecurity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-it"
+                href="https://cr1s1um.github.io/en/categories/cybersecurity/"
+                />
+  </url><url>
     <loc>https://cr1s1um.github.io/it/tags/cybersecurity/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -245,6 +258,19 @@
                 href="https://cr1s1um.github.io/en/technologies/"
                 />
   </url><url>
+    <loc>https://cr1s1um.github.io/it/technologies/windows/</loc>
+    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/technologies/windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-it"
+                href="https://cr1s1um.github.io/en/technologies/windows/"
+                />
+  </url><url>
     <loc>https://cr1s1um.github.io/it/post/bannator-python-script-blocca-brute-force/</loc>
     <lastmod>2025-08-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -269,19 +295,6 @@
                 rel="alternate"
                 hreflang="it-it"
                 href="https://cr1s1um.github.io/en/tags/brute-force/"
-                />
-  </url><url>
-    <loc>https://cr1s1um.github.io/it/categories/cybersecurity/</loc>
-    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://cr1s1um.github.io/it/categories/cybersecurity/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-it"
-                href="https://cr1s1um.github.io/en/categories/cybersecurity/"
                 />
   </url><url>
     <loc>https://cr1s1um.github.io/it/technologies/debian/</loc>
