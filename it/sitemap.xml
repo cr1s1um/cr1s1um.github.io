@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cr1s1um.github.io/it/post/programmazione-agentica-ia-port-scanner-python-windows/</loc>
+    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/post/agentic-programming-ai-python-port-scanner-windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/post/programmazione-agentica-ia-port-scanner-python-windows/"
+                />
+  </url><url>
     <loc>https://cr1s1um.github.io/it/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -59,27 +72,107 @@
   </url><url>
     <loc>https://cr1s1um.github.io/it/tags/chatgpt/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/tags/chatgpt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/tags/chatgpt/"
+                />
   </url><url>
     <loc>https://cr1s1um.github.io/it/tags/codex-cli/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/tags/codex-cli/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/tags/codex-cli/"
+                />
   </url><url>
     <loc>https://cr1s1um.github.io/it/technologies/codex-cli/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/technologies/codex-cli/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/technologies/codex-cli/"
+                />
   </url><url>
     <loc>https://cr1s1um.github.io/it/tags/cybersecurity/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/tags/cybersecurity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/tags/cybersecurity/"
+                />
   </url><url>
     <loc>https://cr1s1um.github.io/it/tags/git/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/tags/git/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/tags/git/"
+                />
   </url><url>
     <loc>https://cr1s1um.github.io/it/technologies/git/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/technologies/git/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/technologies/git/"
+                />
   </url><url>
     <loc>https://cr1s1um.github.io/it/tags/github/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/tags/github/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/tags/github/"
+                />
   </url><url>
     <loc>https://cr1s1um.github.io/it/technologies/github/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cr1s1um.github.io/en/technologies/github/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://cr1s1um.github.io/it/technologies/github/"
+                />
   </url><url>
     <loc>https://cr1s1um.github.io/it/levels/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
@@ -95,9 +188,6 @@
                 />
   </url><url>
     <loc>https://cr1s1um.github.io/it/tags/programmazione-agentica/</loc>
-    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cr1s1um.github.io/it/post/programmazione-agentica-ia-port-scanner-python-windows/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cr1s1um.github.io/it/tags/python/</loc>
