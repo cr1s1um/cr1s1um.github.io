@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Windows on ~# cr1s1um &gt; /dev/random</title>
-    <link>http://localhost:1313/it/technologies/windows/</link>
+    <link>https://cr1s1um.github.io/it/technologies/windows/</link>
     <description>Recent content in Windows on ~# cr1s1um &gt; /dev/random</description>
     <generator>Hugo -- 0.164.0</generator>
     <language>it-IT</language>
     <lastBuildDate>Tue, 07 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/it/technologies/windows/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cr1s1um.github.io/it/technologies/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>/* Programmazione agentica con IA: port scanner Python su Windows */</title>
-      <link>http://localhost:1313/it/post/programmazione-agentica-ia-port-scanner-python-windows/</link>
+      <link>https://cr1s1um.github.io/it/post/programmazione-agentica-ia-port-scanner-python-windows/</link>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/post/programmazione-agentica-ia-port-scanner-python-windows/</guid>
+      <guid>https://cr1s1um.github.io/it/post/programmazione-agentica-ia-port-scanner-python-windows/</guid>
       <description>Esempio pratico di programmazione agentica con ChatGPT, Codex CLI, Python, Git e GitHub su Windows. Creiamo un piccolo port scanner didattico.</description>
     </item>
   </channel>
