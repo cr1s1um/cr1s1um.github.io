@@ -6,8 +6,15 @@
     <description>Recent content on ~# cr1s1um &gt; /dev/random</description>
     <generator>Hugo -- 0.157.0</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cr1s1um.github.io/it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programmazione agentica con IA: port scanner Python su Windows</title>
+      <link>https://cr1s1um.github.io/it/post/programmazione-agentica-ia-port-scanner-python-windows/</link>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://cr1s1um.github.io/it/post/programmazione-agentica-ia-port-scanner-python-windows/</guid>
+      <description>Esempio pratico di programmazione agentica con ChatGPT, Codex CLI, Python, Git e GitHub su Windows. Creiamo un piccolo port scanner didattico.</description>
+    </item>
     <item>
       <title>/* bannator.py: lo script Python di 44 righe che blocca attacchi brute force (e ti introduce alla programmazione!) */</title>
       <link>https://cr1s1um.github.io/it/post/bannator-python-script-blocca-brute-force/</link>
